@@ -1,6 +1,6 @@
 ## about me
 
-hihi! i'm variidian - a teen dev from australia :)
+hihi! i'm variidian - a teen dev from australia :) find me at https://variidian.vercel.app/
 <!--
 **variidian/variidian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
